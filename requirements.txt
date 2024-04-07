@@ -1,0 +1,4 @@
+pandas
+streamlit
+langchain
+psycopg2-binary
